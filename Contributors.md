@@ -16,6 +16,7 @@ git add Contributors.md# Contributors
 - [Kuda M'ndau](https://github.com/kudamndau/)
 - [Caden Maxwell] (https://github.com/CadenMax)
 - [Akintunde Olayinka] (https://github.com/oakintunde)
+- [Nadith Nemal](https://github.com/nadithnemal)
 - melih-canbolat
 - [Eric Risher] (https://github.com/ericrisher)
 - [Kalyan](https://github.com/Kalyan19111999)
